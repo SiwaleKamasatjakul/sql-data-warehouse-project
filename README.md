@@ -44,6 +44,13 @@ This project includes the following key phases:
 
 ---
 
+## 📄 Project Report
+
+View the full project documentation and progress on Notion:  
+🔗 [Notion Report – Data Warehouse Project](https://www.notion.so/Report-Data-Warehouse-Project-1f71a18bc9a380419e15c96dff45facb?source=copy_link)
+
+---
+
 ## 🧰 Tools & Technologies
 
 | Tool | Description |
